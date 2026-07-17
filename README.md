@@ -291,10 +291,7 @@ Add screenshots in the following directory:
 ```
 Images/
 ```
-
-  ![](Images/DNS.png)      
-
-
+     
 ### Topology.png
 ![Topology](Images/Topology.png)
 
@@ -303,6 +300,9 @@ Images/
 
 ### DHCP.png
 ![DHCP](Images/DHCP.png)
+
+### DNS.png
+ ![DNS](Images/DNS.png) 
 
 ### HTTP.png
 ![HTTP](Images/HTTP.png)
